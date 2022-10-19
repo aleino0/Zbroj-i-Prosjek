@@ -1,0 +1,7 @@
+C:\Users\ucenik\source\repos\ZbrojiProsjek\ZbrojiProsjek\bin\Debug\ZbrojiProsjek.exe.config
+C:\Users\ucenik\source\repos\ZbrojiProsjek\ZbrojiProsjek\bin\Debug\ZbrojiProsjek.exe
+C:\Users\ucenik\source\repos\ZbrojiProsjek\ZbrojiProsjek\bin\Debug\ZbrojiProsjek.pdb
+C:\Users\ucenik\source\repos\ZbrojiProsjek\ZbrojiProsjek\obj\Debug\ZbrojiProsjek.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\ZbrojiProsjek\ZbrojiProsjek\obj\Debug\ZbrojiProsjek.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\ZbrojiProsjek\ZbrojiProsjek\obj\Debug\ZbrojiProsjek.exe
+C:\Users\ucenik\source\repos\ZbrojiProsjek\ZbrojiProsjek\obj\Debug\ZbrojiProsjek.pdb
